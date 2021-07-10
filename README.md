@@ -1,3 +1,3 @@
-# curso_reactjs_nextjs
+# Arquivo README.
 
-Criando projetos para web
+Escreva uma descrição longa aqui detalhando seu projeto.
